@@ -5,3 +5,5 @@ PayLoad_ForMe
 - Link: https://swisskyrepo.github.io/PayloadsAllTheThings/Methodology%20and%20Resources/Active%20Directory%20Attack/
 - https://pentestbook.six2dez.com/
 DESCRIBE: PenTesting resource
+- https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file
+DESCRIBE: The-book-of-secret-knowledge
