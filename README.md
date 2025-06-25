@@ -7,3 +7,5 @@ PayLoad_ForMe
 DESCRIBE: PenTesting resource
 - https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file
 DESCRIBE: The-book-of-secret-knowledge
+- https://roadmap.sh/cyber-security
+DESCRIBE: roadmap
